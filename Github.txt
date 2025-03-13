@@ -15,3 +15,4 @@ Example:  first check 1. git branch and create one new branch(git branch branchn
 3. check differen(git diff demo) 4. change branch(gitcheckout branchname) 5. merge two diff branch(git merge branchname)
 Pull Request Concept:
 Create one Repository and make
+Create new branch (git checkout -b New branch name) and Pull to git (git push -u origin branch name)
